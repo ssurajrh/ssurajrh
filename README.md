@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on **skillfleet**(learning platform) -->
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **surajj.hiremath@gmail.com**
 
